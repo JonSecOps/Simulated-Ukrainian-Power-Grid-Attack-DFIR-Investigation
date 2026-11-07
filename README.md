@@ -1,4 +1,4 @@
-# Power Grid Attack Simulation & Vulnerability Analysis
+# Simulated Ukrainian Power Grid Attack & DFIR Investigation
 
 **Project Summary:**
 
