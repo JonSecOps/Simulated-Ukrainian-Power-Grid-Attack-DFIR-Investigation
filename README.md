@@ -19,6 +19,6 @@ Performed rigorous live network telemetry capture (tcpdump), volatile RAM acquis
 **References:**
 1. **Analysis of the Cyber Attack on the Ukrainian Power Grid** - https://nsarchive.gwu.edu/sites/default/files/documents/3891751/SANS-and-Electricity-Information-Sharing-and.pdf
 2. **DarkNet Project Initiative** - https://www.youtube.com/watch?v=Yho3ab_-ukI
-3. **Oak Ridge National Laboratory Pilot Demonstration of an Attestation and Anomaly Detection Framework using Distributed Ledger Technology for Power Grid Infrastructure** - https://info.ornl.gov/sites/publications/Files/Pub180482.pdf
+
 
 ![image](https://github.com/user-attachments/assets/0b3ec4dd-843a-440e-aff6-c55f1fe94cd5)
